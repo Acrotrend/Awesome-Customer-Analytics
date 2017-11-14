@@ -62,3 +62,4 @@ A curated list of awesome customer analytics content aimed at a non-tech busines
 
 ## Miscellaneous/Further Reading ##
 - [Webinar: Customer Analytics Roadmap](https://www.youtube.com/watch?v=Z_HPFe_hXSY)
+- [The Dark Side of Customer Analytics](https://hbr.org/2007/05/the-dark-side-of-customer-analytics)
