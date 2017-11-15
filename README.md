@@ -4,6 +4,15 @@ A curated list of awesome customer analytics content aimed at a non-tech busines
 ## Content ##
 - [What is Customer Analytics](#what-is-customer-analytics)
 - [Methods](#methods)
+  - [Behavioral customer segmentation](#behavioral-customer-segmentation)
+  - [Cross-sell and upsell analysis](#cross-sell-and-upsell-analysis)
+  - [Customer Churn and attrition analysis](#customer-churn-and-attrition-analysis)
+  - [Customer lifetime value and customer journey analysis](#customer-lifetime-value-and-customer-journey-analysis)
+  - [Next-best-action analysis](#next-best-action-analysis)
+  - [Text analysis](#text-analysis)
+- [Case Studies](#case-studies)
+- [MOOCs](#moocs)
+- [Books](#books)
 
 ## What is Customer Analytics ##
 >The *what* and *why*
@@ -29,7 +38,7 @@ A curated list of awesome customer analytics content aimed at a non-tech busines
   - [A Simple Approach to Predicting Customer Churn](http://blog.keyrus.co.uk/a_simple_approach_to_predicting_customer_churn.html)
   - [Predicting Email Churn with NBD/Pareto](https://www.blendo.co/blog/predicting-email-churn-nbd-pareto/)
 
-### [Customer lifetime value and customer journey analysis​](https://en.wikipedia.org/wiki/Customer_lifetime_value) ###
+### [Customer lifetime value and customer journey analysis](https://en.wikipedia.org/wiki/Customer_lifetime_value) ###
   - [Etsy: What's a customer worth?](http://cdn.oreillystatic.com/en/assets/1/event/85/Case%20Study_%20What_s%20a%20Customer%20Worth_%20Presentation.pdf)
   - [Wharton School: CLV and E-Commerce Buying Patterns](https://www.youtube.com/watch?v=guj2gVEEx4s) - Professor Fader from UPENN on what CLV is and how most are doing it wrong (Youtube video)
   - [Lifetimes: Measuring Customer Lifetime Value in Python](https://dataorigami.net/blogs/napkin-folding/18868411-lifetimes-measuring-customer-lifetime-value-in-python)
