@@ -1,4 +1,4 @@
-# Awesome-Customer-Analytics #
+# Awesome Customer Analytics #
 A curated list of awesome customer analytics content aimed at a non-tech business wanting a deeper understanding of the methods and the techniques.
 
 ## Content ##
@@ -55,6 +55,7 @@ A curated list of awesome customer analytics content aimed at a non-tech busines
 ### [Text analysis](https://en.wikipedia.org/wiki/Text_mining) ###
   - [Text Analysis 101: A basic understanding for business users](https://www.linkedin.com/pulse/20141030192523-40949191-text-analysis-101-a-basic-understanding-for-business-users/)
   - [The Application of Text Mining in Business Research](https://www.omicsonline.org/open-access/the-application-of-text-mining-in-business-research-2168-9601-1000232.php?aid=89083&view=mobile)
+  - [How to Use Text Analytics in Business](http://data-informed.com/how-to-use-text-analytics-in-business/)
 
 ## Case Studies ##
 - [Fitness Analytics: Uncovering insights from fitness customers’ behavior](https://www.datasciencecentral.com/profiles/blogs/fitness-analytics-uncovering-insights-from-fitness-customers) - Small non-technical case study of data analytics applied to the fitness industry
